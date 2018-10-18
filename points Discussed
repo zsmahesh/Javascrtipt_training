@@ -1,0 +1,21 @@
+1. Github - to create folder(repositry).
+
+2 Start a project(Repositry).
+
+3. go to the place after creating the repositry and either download or clone the project to the local system.
+
+4. Steps to clone is right click and choose gidbash here and give the command as "git clone" and then paste the copied link.
+
+5.navigate to the project by entering "cd the project name"
+
+6. open the project in code editer by entering "code ." and the code editor opens with the respective project.
+
+7. To create a basic HTML sciliten (Blank HTML Page) use the code HTML:5
+
+8.to open the debugging tool "Right click on the document and select inscpect option" or "press F12" to inter the Decugging tool.
+
+9. to change the colour of the font we need to go to "Style" and select the item to change.
+
+10 "*" is a global selector that selects all the elements in the document to perform the same task.
+
+11. "!important" property will overwride all the existing & default styles created. 
